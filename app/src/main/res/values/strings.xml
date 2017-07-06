@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tetris X</string>
+    <string name="title_activity_register_page">upload register information</string>
+</resources>
